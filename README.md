@@ -1,2 +1,2 @@
 # img-to-text
-An Image to text microservice 
+An Image to text microservice
